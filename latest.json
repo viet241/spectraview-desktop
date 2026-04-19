@@ -1,0 +1,23 @@
+{
+  "version": "0.1.1",
+  "notes": "SpectraView 0.1.1",
+  "pub_date": "2026-04-19T08:36:03.430Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUdjS2FYYTJMbXFZV2RMSGZQaTRCU1o2cTJJbkxOcHpZRm9jbjNqdGRlbWJiTDFJUDZHNno2UENSM3F5QXE5QTRMcEx4S09TL2x1L2hBU2tSdUhNL2RGaUVUaWpna2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTg0MzIwCWZpbGU6U3BlY3RyYVZpZXcuYXBwLnRhci5negpOU1dkRHFralpqeDgrdVVHRXBOYVZ3TVFSclNEanlCM1cyQnk1U0t5eHFZWHRHOWcyTEhNVS80aFRtRHA3ZEJYeTJ5UG0yaFF1b3F6YlJUeWh5bnlCZz09Cg==",
+      "url": "https://github.com/viet241/spectraview-desktop/releases/download/v0.1.1/SpectraView_0.1.1_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUdjS2FYYTJMbXVMRzhiSzNIeExIQ3BCZE16OE04VEFIVndwcHpqZDRiRGIwYUtTcURHZ0t1blVpOWdmRGV4Z3ZDNndCTVFzSXJGV05ubWpBMzlsdmRjMytOZ2g0M3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTg2NDc1CWZpbGU6U3BlY3RyYVZpZXdfMC4xLjFfYW1kNjQuZGViCmhhQTRpVC8yMkp2ZTNVNDNRRE84L0xGVlV3cGpSYnIrNGo3emVQQ3FFVzU3NEs3cUh1UDB4VXFFaHZ2V2Q5U042bWx1VndnMEU3Z1Vaczc0RHJ6RkNnPT0K",
+      "url": "https://github.com/viet241/spectraview-desktop/releases/download/v0.1.1/SpectraView_0.1.1_amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUdjS2FYYTJMbXVMQlhHV3hRbGhLOXhIMTEzQlQwZ3NlZU9aL09pMHB1aDZZMTcra0s1MVQ1UWNzZENtUUpPMWZUWHhZUEx3SmZla09wQUxsbVlKMDJPeFhENC8wWVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTg2ODE4CWZpbGU6U3BlY3RyYVZpZXdfMC4xLjFfeDY0X2VuLVVTLm1zaQpZMWEwdjVqczMwMXovMDZPOUVGTU1qNzdVNG40VmxqVjl4WFNwQ0gxdU9KZ0hEdFMwWFlOL21BUHYzdG9la3d4ZTBGTVIrLzhtSGZQRlY2WlhGNFFDQT09Cg==",
+      "url": "https://github.com/viet241/spectraview-desktop/releases/download/v0.1.1/SpectraView_0.1.1_x64_en-US.msi"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUdjS2FYYTJMbWlPNXgvV2p3NDFxcHF3NTFLUjlxNUtkOWpHYkFJSmVSOGlnSytjVElPR1JIbk9tL004QUI0eFVsTURvWGtaUE1QRFJ4NlhpV21vWFpyRS9GaGMwVGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTg0ODE1CWZpbGU6U3BlY3RyYVZpZXcuYXBwLnRhci5negpsT2ZlV3ZqYVVOQVdaaHJHZUVUZVZwcFVaVkE4VkFjditpTVM4eHJWNXNKUjhPWUdJR1RXMUYzZmZtYUNlRkI5bXZIUnZheElxeTFESVhXN0UyZkdDQT09Cg==",
+      "url": "https://github.com/viet241/spectraview-desktop/releases/download/v0.1.1/SpectraView_0.1.1_x86_64.app.tar.gz"
+    }
+  }
+}
